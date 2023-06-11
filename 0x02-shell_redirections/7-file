@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s  \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) < echo "Best School" 
+ln -s  \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) | echo "Best School" 
